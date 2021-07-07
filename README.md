@@ -6,11 +6,9 @@
 
 <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/BFT-LOGO.png" alt="BFT-Logo" margin="auto 0px" width="50" height="60"/></a>
 </p>
-
-<p align="center"> My name is Bernardo Fonseca Torres</p>
-<p align="center">
-Fullstack / Frontend JavaScript Developer  </p> 
-<p align="center">Welcome to my Github 🥷!</p>
+<h3 align="center"> My name is Bernardo Fonseca Torres </h3>
+<h3 align="center"> Fullstack / Frontend JavaScript Developer  </h3> 
+<h4 align="center">Welcome to my Github 🥷!</h4>
  
 <hr> 
 <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/IamBernardo.png" alt="stack-bft" margin="auto 0px" width="410" height="260"/></a></p>
