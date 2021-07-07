@@ -1,4 +1,9 @@
                Hello there 👋
+
+
+<p align="center"><img src="https://tenor.com/view/hello-there-gif-9442662" alt="BFT-Logo" margin="auto 0px" width="550" height="370"/></a>
+</p>
+
 <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/BFT-LOGO.png" alt="BFT-Logo" margin="auto 0px" width="50" height="60"/></a>
 </p>
 
@@ -72,7 +77,7 @@ Fullstack / Frontend JavaScript Developer  </p>
 
  ‣ Organisational-Inspiration ‣ <a href="https://github.com/francogiuntoli">Franco Giuntoli</a>
  
-<p align="center"><img src="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966" alt="BFT-Logo" margin="auto 0px" width="550" height="370"/></a>
+<p align="center"><img src="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966" alt="gif" margin="auto 0px" width="550" height="370"/></a>
 </p>
 
 
