@@ -1,4 +1,4 @@
-###                Hello there 👋
+               Hello there 👋
 
   <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="" alt="BFT-Logo" margin="auto 0px" width="110" height="83"/></a>
 </p>
