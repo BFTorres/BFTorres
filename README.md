@@ -1,7 +1,7 @@
            
 
 
-<img align="left" src="https://github.com/BFTorres/BFTorres/blob/main/hellothere.gif" alt="HELLOTHERE" margin="auto 0px" width="350" height="200"/>
+
 
 
 <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/BFT-LOGO.png" alt="BFT-Logo" margin="auto 0px" width="50" height="60"/></a>
