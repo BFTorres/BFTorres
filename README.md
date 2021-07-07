@@ -1,8 +1,8 @@
-               Hello there 👋
+           
 
 
-<p align="center"><img src="https://tenor.com/view/hello-there-gif-9442662" alt="BFT-Logo" margin="auto 0px" width="550" height="370"/></a>
-</p>
+<img align="left" src="https://github.com/BFTorres/BFTorres/blob/main/hellothere.gif" alt="HELLOTHERE" margin="auto 0px" width="350" height="200"/></a>
+
 
 <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/BFT-LOGO.png" alt="BFT-Logo" margin="auto 0px" width="50" height="60"/></a>
 </p>
@@ -12,11 +12,12 @@
 Fullstack / Frontend JavaScript Developer  </p> 
 <p align="center">Welcome to my Github 😊!</p>
  
+<hr> 
 <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/IamBernardo.png" alt="stack-bft" margin="auto 0px" width="410" height="260"/></a></p>
  
  
  
- <hr> 
+ 
  If you are here, you are probably considering me for a Developer role or just casually browsing through. 
  Let me take you through a Glimpse of what my coding path looks like: Find my <a href="https://myportfolio-bft.netlify.app">Portfolio here</a> with links to my projects.
  <hr>
