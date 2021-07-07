@@ -1,7 +1,7 @@
            
 
 
-<img align="left" src="https://github.com/BFTorres/BFTorres/blob/main/hellothere.gif" alt="HELLOTHERE" margin="auto 0px" width="350" height="200"/></a>
+<img align="left" src="https://github.com/BFTorres/BFTorres/blob/main/hellothere.gif" alt="HELLOTHERE" margin="auto 0px" width="350" height="200"/>
 
 
 <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/BFT-LOGO.png" alt="BFT-Logo" margin="auto 0px" width="50" height="60"/></a>
@@ -77,14 +77,13 @@ Fullstack / Frontend JavaScript Developer  </p>
  ‣ Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
 
  ‣ Organisational-Inspiration ‣ <a href="https://github.com/francogiuntoli">Franco Giuntoli</a>
- 
+ <!--
  <hr>
  
-<p align="center"><img src="hhttps://github.com/BFTorres/BFTorres/blob/main/babyyodashow.gif" alt="gif" margin="auto 0px" width="550" height="370"/></a>
-</p>
+<img align="center" src="hhttps://github.com/BFTorres/BFTorres/blob/main/babyyodashow.gif" alt="baby_yoda" margin="auto 0px" width="550" height="370"/>
 
 
-<!--
+
 **BFTorres/BFTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
