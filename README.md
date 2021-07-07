@@ -20,7 +20,6 @@ fullstack / frontend JavaScript Developer  </p>
  
 ###### 🎓 I’m currently : 
 
-‣   📝a fullstack javascript developer looking for a job / opportunity to join an amazing Tech team either as a frontend or fullstack developer<br>
 ‣ Working on some amazing projects soon to be seen in my portfolio.<br>
 ‣ Expanding my design abilities and tech stack by attending a UX/UI course.<br>
  <hr>
@@ -45,7 +44,7 @@ fullstack / frontend JavaScript Developer  </p>
 
 ###### 📚 Goals:
 
- ‣ Quest to learn more.
+ ‣ Design amazing things and learn more.
  <hr>
 
 ###### For more Enquiries: 
