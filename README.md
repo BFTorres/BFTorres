@@ -1,12 +1,16 @@
                Hello there 👋
 
-  <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/BFT-logo_klein.png" alt="BFT-Logo" margin="auto 0px" width="110" height="83"/></a>
+  <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/IamBernardo.png" alt="stack-bft" margin="auto 0px" width="310" height="183"/></a>
 </p>
 
 <p align="center">
 Fullstack / Frontend JavaScript Developer  </p> 
 
  <p align="center"> My name is Bernardo Fonseca Torres <br><br>Welcome to my Github 😊!</p>
+ 
+ <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/BFT-logo_klein.png" alt="BFT-Logo" margin="auto 0px" width="110" height="83"/></a>
+</p>
+ 
  <hr> 
  If you are here, you are probably considering me for a Developer role or just casually browsing through. 
  Let me take you through a Glimpse of what my coding path looks like: Find my <a href="https://myportfolio-bft.netlify.app">Portfolio here</a> with links to my projects.
