@@ -7,8 +7,8 @@
 <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/BFT-LOGO.png" alt="BFT-Logo" margin="auto 0px" width="50" height="60"/></a>
 </p>
 <h3 align="center"> My name is Bernardo Fonseca Torres </h3>
-<h3 align="center"> Fullstack / Frontend JavaScript Developer  </h3> 
-<h4 align="center">Welcome to my Github 🥷!</h4>
+<h3 align="center"> Frontend Developer | UI Designer </h3> 
+<h4 align="center"> Welcome to my Github 🥷!</h4>
  
 <hr> 
 <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/IamBernardo.png" alt="stack-bft" margin="auto 0px" width="410" height="260"/></a></p>
@@ -25,12 +25,6 @@
 📍 current location : Hannover, Germany. 
 
  <hr> 
- 
-###### 🎓 I’m currently : 
-
-‣ Working on some amazing projects soon to be seen in my portfolio.<br>
-‣ Expanding my design abilities and tech stack by attending a UX/UI course.<br>
- <hr>
 
 ###### Languages and Tools:
 
@@ -49,11 +43,6 @@
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 <hr>
-
-###### 📚 Goals:
-
- ‣ Design amazing things and learn more.
- <hr>
 
 ###### For more Enquiries: 
 
