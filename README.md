@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/BFT-LOGO.png" alt="BFT-Logo" margin="auto 0px" width="50" height="60"/></a>
 </p>
 <h3 align="center"> My name is Bernardo Fonseca Torres </h3>
-<h3 align="center"> Frontend Developer </h3> 
+<h3 align="center"> Software Developer | UX/UI Designer</h3> 
 <h4 align="center"> Welcome to my Github 🥷!</h4>
  
 <hr> 
