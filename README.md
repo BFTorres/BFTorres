@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/BFTlogo-circle.png" alt="BFT-Logo" margin="auto 0px" width="50" height="60"/></a>
+<p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/bftcircle.png" alt="BFT-Logo" margin="auto 0px" width="50" height="60"/></a>
 </p>
 <h3 align="center"> My name is Bernardo Fonseca Torres </h3>
 <h3 align="center"> Software Developer | UX/UI Designer</h3> 
