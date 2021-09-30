@@ -11,13 +11,13 @@
 <h4 align="center"> Welcome to my Github 🥷!</h4>
  
 <hr> 
-<p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/IamBernardo.png" alt="stack-bft" margin="auto 0px" width="410" height="260"/></a></p>
+<p align="center"> <a href="https://bernardofonseca.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/IamBernardo.png" alt="stack-bft" margin="auto 0px" width="410" height="260"/></a></p>
  
  
  
  
  If you are here, you are probably considering me for a Developer role or just casually browsing through. 
- Let me take you through a Glimpse of what my coding path looks like: Find my <a href="https://myportfolio-bft.netlify.app">Portfolio here</a> with links to my projects.
+ Let me take you through a Glimpse of what my coding path looks like: Find my <a href="https://bernardofonseca.netlify.app/">Portfolio here</a> with links to my projects.
  <hr>
  
  ###### About me: 
