@@ -10,7 +10,7 @@
 <h3 align="center"> Software Developer | UX/UI Designer</h3> 
 <h4 align="center"> Welcome to my Github 🥷!</h4>
  
-<hr> 
+
 <p align="center"> <a href="https://bernardotorres.space/"><img src="https://github.com/BFTorres/BFTorres/blob/main/IamBernardo.png" alt="stack-bft" margin="auto 0px" width="410" height="260"/></a></p>
  
  
