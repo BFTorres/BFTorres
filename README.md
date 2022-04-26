@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/bftcircle.png" alt="BFT-Logo" margin="auto 0px" width="50" height="60"/></a>
 </p>
-<h3 align="center"> My name is Bernardo Fonseca Torres </h3>
+<h3 align="center"> Bernardo Fonseca Torres </h3>
 <h3 align="center"> Software Developer | UX/UI Designer</h3> 
 <h4 align="center"> Welcome to my Github 🥷!</h4>
  
@@ -17,12 +17,12 @@
  
  
  If you are here, you are probably considering me for a Developer role or just casually browsing through. 
- Let me take you through a Glimpse of what my coding path looks like: Find my <a href="https://bernardotorres.space/">Portfolio here</a> with links to my projects.
+ Let me take you through a Glimpse of what my coding path looks like: Find my Portfolio <a href="https://bernardotorres.space/">here</a> with links to my projects.
  <hr>
  
  ###### About me: 
 
-📍 current location : Hannover, Germany. 
+📍 current location: Hannover, Germany. 
 
  <hr> 
 
@@ -46,7 +46,7 @@
 
 ###### For more Enquiries: 
 
-📩Send me an Email on: <a href="mailto: bfonseca@gmx.de">bfonseca@gmx.de</a>
+📩Send me an Email <a href="mailto: bftorres@protonmail.com">here</a>.
 
 ###### 🤝Also find and connect with me here:
 
