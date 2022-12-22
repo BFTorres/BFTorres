@@ -48,25 +48,18 @@
 
 <hr>
 
-###### For more Enquiries: 
+<!-- ###### For more Enquiries: 
 
-<!-- 📩Send me an Email <a href="mailto: bftorres@protonmail.com">here</a>. -->
-<span class="material-icons-outlined">
-  forward_to_inbox
-</span>Send me an Email <a href="mailto: bftorres@protonmail.com">here</a>.
+📩Send me an Email <a href="mailto: bftorres@protonmail.com">here</a>.
 
 ###### 🤝Also find and connect with me here:
 
 <a href="https://www.linkedin.com/in/bernardo-fonseca-torres/">
   <img width="22" src="https://github.com/BFTorres/BFTorres/blob/main/linkedin.svg"> 
   LinkedIn 
-</a>
+</a> -->
               
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BFTorres&hide=prs&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BFTorres&layout=compact&theme=dracula)
-<hr> 
-###### Acknowledgements:
 
- ‣ Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
 
- ‣ Organisational-Inspiration ‣ <a href="https://github.com/francogiuntoli">Franco Giuntoli</a>
