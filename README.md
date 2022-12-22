@@ -1,25 +1,28 @@
-           
-
-
-
-
-
-<p align="center"> <a href="https://myportfolio-bft.netlify.app/"><img src="https://github.com/BFTorres/BFTorres/blob/main/big-BFTLogo-crimson.png" alt="BFT-Logo" margin="auto 0px" width="50"/></a>
+<p align="center">
+  <a href="https://myportfolio-bft.netlify.app/">
+    <img src="https://github.com/BFTorres/BFTorres/blob/main/big-BFTLogo-crimson.png" alt="BFT-Logo" margin="auto 0px" width="50"/>
+  </a>
 </p>
-<h3 align="center"> Bernardo Fonseca Torres </h3>
-<h3 align="center"> Software Developer | UX/UI Designer</h3> 
-<h4 align="center"> Welcome to my Github 🥷!</h4>
- 
+<h3 align="center"> 
+  Bernardo Fonseca Torres 
+</h3>
+<h3 align="center"> 
+  Software Developer | UX/UI Designer
+</h3> 
+<h4 align="center"> 
+  Welcome to my Github 🥷!
+</h4>
+<p align="center"> 
+  <a href="https://bernardotorres.space/">
+    <img src="https://github.com/BFTorres/BFTorres/blob/main/IamBernardo.png" alt="stack-bft" margin="auto 0px" width="410" height="260"/>
+  </a>
+</p>
+<p>
+  If you are here, you are probably considering me for a Developer role or just casually browsing through. 
+  Let me take you through a Glimpse of what my coding path looks like: Find my Portfolio with links to my projects <a href="https://bybernardo.com/" target="_blank" rel="noreferrer noopener">here</a>.
+</p>
+<hr>
 
-<p align="center"> <a href="https://bernardotorres.space/"><img src="https://github.com/BFTorres/BFTorres/blob/main/IamBernardo.png" alt="stack-bft" margin="auto 0px" width="410" height="260"/></a></p>
- 
- 
- 
- 
- If you are here, you are probably considering me for a Developer role or just casually browsing through. 
- Let me take you through a Glimpse of what my coding path looks like: Find my Portfolio with links to my projects <a href="https://bybernardo.com/" target="_blank" rel="noreferrer noopener">here</a>.
- <hr>
- 
  ###### About me: 
 
 📍 current location: Hannover, Germany. 
@@ -50,37 +53,16 @@
 
 ###### 🤝Also find and connect with me here:
 
-<a href="https://www.linkedin.com/in/bernardo-fonseca-torres/"><img width="22" src="https://github.com/BFTorres/BFTorres/blob/main/linkedin.svg"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/bernardo-fonseca-torres/">
+  <img width="22" src="https://github.com/BFTorres/BFTorres/blob/main/linkedin.svg"> 
+  LinkedIn 
+</a>
               
-
-
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BFTorres&hide=prs&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BFTorres&layout=compact&theme=dracula)
 <hr> 
-
 ###### Acknowledgements:
 
  ‣ Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
 
  ‣ Organisational-Inspiration ‣ <a href="https://github.com/francogiuntoli">Franco Giuntoli</a>
- <!--
- <hr>
- 
-<img align="center" src="hhttps://github.com/BFTorres/BFTorres/blob/main/babyyodashow.gif" alt="baby_yoda" margin="auto 0px" width="550" height="370"/>
-
-
-
-**BFTorres/BFTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
