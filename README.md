@@ -49,7 +49,10 @@
 
 ###### For more Enquiries: 
 
-📩Send me an Email <a href="mailto: bftorres@protonmail.com">here</a>.
+<!-- 📩Send me an Email <a href="mailto: bftorres@protonmail.com">here</a>. -->
+<span class="material-icons-outlined">
+  forward_to_inbox
+</span>Send me an Email <a href="mailto: bftorres@protonmail.com">here</a>.
 
 ###### 🤝Also find and connect with me here:
 
