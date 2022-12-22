@@ -17,7 +17,7 @@
  
  
  If you are here, you are probably considering me for a Developer role or just casually browsing through. 
- Let me take you through a Glimpse of what my coding path looks like: Find my Portfolio <a href="https://bybernardo.com/">here</a> with links to my projects.
+ Let me take you through a Glimpse of what my coding path looks like: Find my Portfolio with links to my projects <a href="https://bybernardo.com/" target="_blank">here</a>.
  <hr>
  
  ###### About me: 
