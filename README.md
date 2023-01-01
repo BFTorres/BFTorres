@@ -15,7 +15,7 @@
 
 *   🌍  I'm based in Hannover
 *   🖥️  See my portfolio at [bybernardo.com](http://bybernardo.com)
-*   🧠  I'm learning Astro and Svelte
+
 ### Skills 
 <p align="left">
 <a href="https://affinity.serif.com/en-gb/designer/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/affinity-designer-v2-logo-3F368CA516-seeklogo.com.png" width="36" height="36" alt="Affinity-Designer" /></a>
