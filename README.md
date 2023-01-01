@@ -1,13 +1,12 @@
-<p align="center">
-  <a href="https://bybernardo.com/">
-    <img src="https://github.com/BFTorres/BFTorres/blob/main/big-BFTLogo-crimson.png" alt="BFT-Logo" margin="auto 0px" width="50"/>
-  </a>
-</p>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bernardo
-================================================================================================================================
+<a href="https://bybernardo.com/">
+  <img src="https://github.com/BFTorres/BFTorres/blob/main/big-BFTLogo-crimson.png" alt="BFT-Logo" margin="auto 0px" width="50"/>
+</a>
+  
 
-Software Developer | UX/UI Designer
------------------------------------
+###  Bernardo Fonseca Torres | Digital Craftsman
+
+
+
 
 Bernardo is a Designer and Developer who specializes in UI/UX Design, Front-End Development, and Fin-Tech. Currently, I am supervising the design and front-end of a vast portfolio of clients including BMW, Thyssenkrupp, Mini, and Rolls Royce at Lohoff.
 
@@ -34,11 +33,6 @@ Bernardo is a Designer and Developer who specializes in UI/UX Design, Front-End 
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/BFTorres" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/bernardo-fonseca-torres" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/BFTorres" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bernardo-fonseca-torres" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
