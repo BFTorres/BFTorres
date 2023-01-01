@@ -1,9 +1,12 @@
-<a href="https://bybernardo.com/">
-  <img src="https://github.com/BFTorres/BFTorres/blob/main/big-BFTLogo-crimson.png" alt="BFT-Logo" margin="auto 0px" width="50"/>
-</a>
+###  Bernardo Fonseca Torres
   
 
-###  Bernardo Fonseca Torres | Digital Craftsman
+<a href="https://bybernardo.com/">
+  <img src="https://media.licdn.com/dms/image/D4E16AQF4Fyql6BeqSQ/profile-displaybackgroundimage-shrink_350_1400/0/1671702471498?e=1678320000&v=beta&t=38FBXPy_NquS-BjvvmRx05_g-0MTUTpq74rrHIDI7bo" alt="BFT-Logo" margin="auto 0px"/>
+</a>
+
+
+
 
 
 
