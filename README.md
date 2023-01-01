@@ -1,4 +1,8 @@
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<p align="center">
+  <a href="https://bybernardo.com/">
+    <img src="https://github.com/BFTorres/BFTorres/blob/main/big-BFTLogo-crimson.png" alt="BFT-Logo" margin="auto 0px" width="50"/>
+  </a>
+</p>
 <h3 align="center"> 
   Bernardo Fonseca Torres 
 </h3>
@@ -8,11 +12,6 @@
 <h4 align="center"> 
   Welcome to my Github 🥷!
 </h4>
-<p align="center"> 
-  <a href="https://bernardotorres.space/">
-    <img src="https://github.com/BFTorres/BFTorres/blob/main/IamBernardo.png" alt="stack-bft" margin="auto 0px" width="410" height="260"/>
-  </a>
-</p>
 <p>
   If you are here, you are probably considering me for a Developer role or just casually browsing through. 
   Let me take you through a Glimpse of what my coding path looks like: Find my Portfolio with links to my projects <a href="https://bybernardo.com/" target="_blank" rel="noreferrer noopener">here</a>.
