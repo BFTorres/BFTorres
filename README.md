@@ -11,7 +11,7 @@
 
 
 
-### Bernardo is a Designer and Developer who specializes in UI/UX Design, Front-End Development, and Fin-Tech. Currently, I am supervising the design and front-end of a vast portfolio of clients including BMW, Thyssenkrupp, Mini, and Rolls Royce at Lohoff.
+### Bernardo is a Designer and Developer who specializes in UI/UX Design, Front-End Development, and Fin-Tech. Currently, he's supervising the design and front-end of a vast portfolio of clients including BMW, Thyssenkrupp, Mini, and Rolls Royce at Lohoff.
 
 *   🌍  I'm based in Hannover
 *   🖥️  See my portfolio at [bybernardo.com](http://bybernardo.com)
