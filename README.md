@@ -13,8 +13,6 @@
 
 ### Bernardo is a Designer and Developer who specializes in UI/UX Design and Front-End Development.
 
-*   🌍  Based in Germany
-*   🖥️  See my portfolio at [bybernardo.com](http://bybernardo.com)
 
                     
 ### Socials
