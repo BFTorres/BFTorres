@@ -11,7 +11,7 @@
 
 
 
-### Bernardo is a Designer and Developer who specializes in UI/UX Design and Front-End Development.
+### I code and design stuff.
 
 
                     
