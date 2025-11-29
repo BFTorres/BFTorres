@@ -17,7 +17,7 @@
                     
 <p align="center">
   <kbd>
-    <img src="https://raw.githubusercontent.com/BFTorres/BFTorres/main/the-boys.svg" width="260" />
+    <img src="https://raw.githubusercontent.com/BFTorres/BFTorres/main/the-boys.svg" width="75%" />
   </kbd>
 </p>
 
