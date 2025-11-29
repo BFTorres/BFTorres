@@ -17,7 +17,7 @@
                     
 
   <kbd>
-    <img src="https://raw.githubusercontent.com/BFTorres/BFTorres/main/Group 8837.jpg" />
+    <img src="https://raw.githubusercontent.com/BFTorres/BFTorres/main/boys.png" />
   </kbd>
 
 
