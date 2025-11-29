@@ -15,9 +15,10 @@
 
 
                     
-                    
-<img
-  src="https://raw.githubusercontent.com/BFTorres/BFTorres/main/the-boys.svg"
-  style="margin: 0 auto; border: 1px solid #5cacff; border-radius: 12px;"
-/>
+<p align="center">
+  <kbd>
+    <img src="https://raw.githubusercontent.com/BFTorres/BFTorres/main/the-boys.svg" width="260" />
+  </kbd>
+</p>
+
 
