@@ -13,12 +13,9 @@
 
 ### I code and design stuff.
 
-
-                    
-
-  <kbd>
-    <img src="https://raw.githubusercontent.com/BFTorres/BFTorres/main/boys.png" />
-  </kbd>
+### ...anyway, check this out
+              
+<img src="https://raw.githubusercontent.com/BFTorres/BFTorres/main/boys.png" />
 
 
 
