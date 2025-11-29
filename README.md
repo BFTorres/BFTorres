@@ -18,6 +18,6 @@
                     
 <img
   src="https://raw.githubusercontent.com/BFTorres/BFTorres/main/the-boys.svg"
-  style="display:block; margin: 0 auto; border: 1px solid #5cacff; border-radius: 12px;"
+  style="margin: 0 auto; border: 1px solid #5cacff; border-radius: 12px;"
 />
 
